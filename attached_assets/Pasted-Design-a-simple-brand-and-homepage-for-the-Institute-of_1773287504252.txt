@@ -1,0 +1,57 @@
+Design a simple brand and homepage for the “Institute of Digital Risk” (IDR), an
+industry-led training and deployment institute focused on digital, and AI risk.
+Deliverables:
+• 1 logo for IDR
+• 1 responsive homepage (desktop + mobile)
+1. Logo design task
+Create a logo that:
+• Uses a cube-inspired icon or geometric shape to suggest structure, risk
+and resilience.
+• Uses a primary colour palette of orange, white and black, with a clean,
+minimalist tech/education feel.
+• Works in two variants: icon-only, and icon + text “Institute of Digital Risk”.
+• Is legible at small sizes (favicon / mobile header).
+What to submit:
+• PNG or SVG of both variants.
+• A short note (3–4 sentences) explaining your design choices (colour,
+typography, symbolism).
+2. Homepage design and build
+Create a single-page website (HTML/CSS/JS) for IDR that clearly explains who they are
+and what they do.
+Mandatory sections
+1. Hero section
+• Headline that reflects IDR’s mission, e.g. “Advancing the Future of Digital
+Risk”.
+• Subheading that explains that IDR trains and deploys digital risk
+practitioners, combining academic collaboration and industry practice.
+• Call-to-action button (e.g. “Explore Programs” or “Hire Talent”).
+2. About IDR
+• 1–2 short paragraphs explaining IDR as an industry-led training and
+deployment institute for digital, cyber and technology risk roles in regulated,
+high-consequence environments.
+• Emphasise the link between academic insight (UK university partnership)
+and real-world projects.
+3. Service pillars / model
+• Present the core model with at least three cards or blocks, for example:
+• Academy (training / bootcamps for students and professionals).
+• Innovation & Incubation (developing IP, future risk models, AI
+governance).
+• Advisory Services (helping organisations implement frameworks like NIST
+ISO 27001, NIS2).
+• Optionally show the “train – hire – innovate – deploy” pipeline visually
+(timeline, steps or icons).
+4. Community / who we serve
+• Short section describing the community: students, early-career
+professionals and practitioners in sectors like financial services and critical
+infrastructure seeking upskilling in digital and cyber risk.
+5. Contact / call to action
+• Simple contact form (name, email, message) or a “Register interest” form.
+• Placeholder email or button.
+Technical requirements
+• Use semantic HTML5 (header, nav, main, section, footer).
+• Use responsive layout (CSS Flexbox or Grid) that works on mobile and
+desktop.
+• Implement a sticky navigation bar with smooth scrolling to sections.
+• Use a clear, accessible colour contrast and web-safe or Google Fonts.
+• Include basic hover states for buttons and nav links.
+• No CSS frameworks (e.g. Bootstrap); only vanilla HTML/CSS/JS.
